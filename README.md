@@ -1,4 +1,4 @@
-# TEthanT.github.io
+# Covid-19 Analysis
 320 Final Project
 <br>
 Created by: Loc Cao, Ethan Tran
